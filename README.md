@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0525-contiguous-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0525-contiguous-array) |
+| [1122-relative-sort-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1122-relative-sort-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -37,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0525-contiguous-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0525-contiguous-array) |
+| [1122-relative-sort-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1122-relative-sort-array) |
 | [3731-find-missing-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0015-3sum) |
+| [1122-relative-sort-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1122-relative-sort-array) |
 | [3731-find-missing-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -79,4 +82,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0525-contiguous-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
