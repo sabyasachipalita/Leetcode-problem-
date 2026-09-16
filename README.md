@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0258-add-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3379-transformed-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3379-transformed-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1470-shuffle-the-array) |
 | [1720-decode-xored-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1720-decode-xored-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3379-transformed-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3379-transformed-array) |
 | [3731-find-missing-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3876-construct-uniform-parity-array-ii) |
