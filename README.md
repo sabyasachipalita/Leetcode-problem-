@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3379-transformed-array) |
 ## Number Theory
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1122-relative-sort-array) |
 | [1470-shuffle-the-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1470-shuffle-the-array) |
 | [1720-decode-xored-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1720-decode-xored-array) |
+| [1929-concatenation-of-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3379-transformed-array) |
 | [3731-find-missing-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3731-find-missing-elements) |
