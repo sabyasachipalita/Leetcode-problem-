@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3379-transformed-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0058-length-of-last-word) |
+| [3498-reverse-degree-of-a-string](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
