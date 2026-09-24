@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0263-ugly-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3379-transformed-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3876-construct-uniform-parity-array-ii) |
