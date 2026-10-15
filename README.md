@@ -123,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1720-decode-xored-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1720-decode-xored-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
