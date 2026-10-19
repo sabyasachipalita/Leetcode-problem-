@@ -3,6 +3,6 @@
 SELECT class
 FROM Courses
 GROUP BY class
-having count(student)>=5;
+having count(*)>=5;
 
 
