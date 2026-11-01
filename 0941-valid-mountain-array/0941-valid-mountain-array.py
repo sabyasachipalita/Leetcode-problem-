@@ -24,7 +24,10 @@ class Solution:
                     else:
                         return False
 
-            return False
+            else:
+                    return False
+
+         
 
 
                     
