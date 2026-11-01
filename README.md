@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0525-contiguous-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0525-contiguous-array) |
+| [0941-valid-mountain-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0941-valid-mountain-array) |
 | [1122-relative-sort-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1331-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1470-shuffle-the-array) |
