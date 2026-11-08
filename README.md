@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
