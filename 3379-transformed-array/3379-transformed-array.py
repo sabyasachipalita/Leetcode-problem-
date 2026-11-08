@@ -1,18 +1,14 @@
 class Solution:
     def constructTransformedArray(self, nums: List[int]) -> List[int]:
-        p=[0]*len(nums)
         n=len(nums)
-        for i in range(len(nums)):
+        result=[0]*n
+        for i in range(n):
             if nums[i]==0:
-                p[i]=0
+                result[i]=0
+
 
             else:
-                p[i]=nums[(i+nums[i])%n]
-                
-
-        return p
-
-           
-
+                result[i]=nums[(i+nums[i])%n]
+        return result
 
         
