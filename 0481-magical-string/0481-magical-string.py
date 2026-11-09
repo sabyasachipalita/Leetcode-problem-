@@ -1,6 +1,6 @@
 class Solution:
     def magicalString(self, n: int) -> int:
-        if n<=3:
+        if n<3:
             return 1
 
         else:
