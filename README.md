@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0027-remove-element) |
+| [0481-magical-string](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0481-magical-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0205-isomorphic-strings) |
+| [0481-magical-string](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0481-magical-string) |
 | [0657-robot-return-to-origin](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0657-robot-return-to-origin) |
 | [3498-reverse-degree-of-a-string](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
