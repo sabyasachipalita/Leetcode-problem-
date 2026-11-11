@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0525-contiguous-array) |
 | [1122-relative-sort-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1331-rank-transform-of-an-array) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3046-split-the-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3046-split-the-array) |
 | [3731-find-missing-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0205-isomorphic-strings) |
 | [0481-magical-string](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0481-magical-string) |
 | [0657-robot-return-to-origin](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0657-robot-return-to-origin) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3498-reverse-degree-of-a-string](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1122-relative-sort-array) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3046-split-the-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3046-split-the-array) |
 ## Quicksort
 |  |
