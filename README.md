@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3663-find-the-least-frequent-digit](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3663-find-the-least-frequent-digit) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3379-transformed-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3379-transformed-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3663-find-the-least-frequent-digit](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3046-split-the-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3046-split-the-array) |
+| [3663-find-the-least-frequent-digit](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3945-digit-frequency-score) |
 ## Sorting
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1122-relative-sort-array) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3046-split-the-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3046-split-the-array) |
+| [3663-find-the-least-frequent-digit](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3663-find-the-least-frequent-digit) |
 ## Quicksort
 |  |
 | ------- |
