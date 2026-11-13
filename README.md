@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1720-decode-xored-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1720-decode-xored-array) |
 | [1929-concatenation-of-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1929-concatenation-of-array) |
+| [2404-most-frequent-even-element](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2404-most-frequent-even-element) |
 | [3046-split-the-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3046-split-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2404-most-frequent-even-element](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2404-most-frequent-even-element) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3046-split-the-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3046-split-the-array) |
 | [3663-find-the-least-frequent-digit](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3663-find-the-least-frequent-digit) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0169-majority-element) |
 | [1122-relative-sort-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1122-relative-sort-array) |
+| [2404-most-frequent-even-element](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2404-most-frequent-even-element) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3046-split-the-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3046-split-the-array) |
 | [3663-find-the-least-frequent-digit](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3663-find-the-least-frequent-digit) |
