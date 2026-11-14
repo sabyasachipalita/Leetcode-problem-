@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0525-contiguous-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0525-contiguous-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0205-isomorphic-strings) |
+| [0347-top-k-frequent-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0525-contiguous-array) |
 | [1122-relative-sort-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1331-rank-transform-of-an-array) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1122-relative-sort-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1331-rank-transform-of-an-array) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0347-top-k-frequent-elements) |
 | [1122-relative-sort-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1122-relative-sort-array) |
 | [2404-most-frequent-even-element](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2404-most-frequent-even-element) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2423-remove-letter-to-equalize-frequency) |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -195,4 +200,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
