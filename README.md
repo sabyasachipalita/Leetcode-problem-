@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2404-most-frequent-even-element) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3046-split-the-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3046-split-the-array) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3731-find-missing-elements) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0657-robot-return-to-origin) |
 | [0821-shortest-distance-to-a-character](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0821-shortest-distance-to-a-character) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2404-most-frequent-even-element) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3046-split-the-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3046-split-the-array) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3663-find-the-least-frequent-digit) |
 ## Quicksort
