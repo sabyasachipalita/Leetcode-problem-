@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0525-contiguous-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0525-contiguous-array) |
+| [0821-shortest-distance-to-a-character](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0821-shortest-distance-to-a-character) |
 | [0941-valid-mountain-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0941-valid-mountain-array) |
 | [1122-relative-sort-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1331-rank-transform-of-an-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0027-remove-element) |
 | [0481-magical-string](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0481-magical-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0821-shortest-distance-to-a-character) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0205-isomorphic-strings) |
 | [0481-magical-string](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0481-magical-string) |
 | [0657-robot-return-to-origin](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0657-robot-return-to-origin) |
+| [0821-shortest-distance-to-a-character](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0821-shortest-distance-to-a-character) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3498-reverse-degree-of-a-string](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
