@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0657-robot-return-to-origin) |
 | [1929-concatenation-of-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3498-reverse-degree-of-a-string) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0481-magical-string) |
 | [0657-robot-return-to-origin](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0657-robot-return-to-origin) |
 | [0821-shortest-distance-to-a-character](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0821-shortest-distance-to-a-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3498-reverse-degree-of-a-string) |
