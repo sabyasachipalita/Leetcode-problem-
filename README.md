@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3663-find-the-least-frequent-digit) |
+| [3692-majority-frequency-characters](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3692-majority-frequency-characters) |
 | [3731-find-missing-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3945-digit-frequency-score) |
 ## Sorting
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-remove-letter-to-equalize-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3498-reverse-degree-of-a-string) |
+| [3692-majority-frequency-characters](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3692-majority-frequency-characters) |
 ## Stack
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3663-find-the-least-frequent-digit) |
+| [3692-majority-frequency-characters](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3692-majority-frequency-characters) |
 ## Quicksort
 |  |
 | ------- |
