@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0821-shortest-distance-to-a-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3498-reverse-degree-of-a-string) |
 | [3692-majority-frequency-characters](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3692-majority-frequency-characters) |
