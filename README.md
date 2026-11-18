@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3843-first-element-with-unique-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3843-first-element-with-unique-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3903-smallest-stable-index-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3692-majority-frequency-characters](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3731-find-missing-elements) |
+| [3843-first-element-with-unique-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3843-first-element-with-unique-frequency) |
 | [3945-digit-frequency-score](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3663-find-the-least-frequent-digit) |
 | [3692-majority-frequency-characters](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3843-first-element-with-unique-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3843-first-element-with-unique-frequency) |
 ## Quicksort
 |  |
 | ------- |
