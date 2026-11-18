@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3663-find-the-least-frequent-digit) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3663-find-the-least-frequent-digit) |
 | [3692-majority-frequency-characters](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3692-majority-frequency-characters) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3945-digit-frequency-score) |
 ## Sorting
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3663-find-the-least-frequent-digit) |
 | [3692-majority-frequency-characters](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3692-majority-frequency-characters) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Quicksort
 |  |
 | ------- |
