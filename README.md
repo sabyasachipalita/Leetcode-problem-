@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0481-magical-string) |
 | [0657-robot-return-to-origin](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0657-robot-return-to-origin) |
 | [0821-shortest-distance-to-a-character](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0821-shortest-distance-to-a-character) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
