@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0283-move-zeroes) |
 | [0481-magical-string](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0481-magical-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0821-shortest-distance-to-a-character) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1385-find-the-distance-value-between-two-arrays) |
