@@ -17,7 +17,7 @@ class Solution:
 
 
             else:
-                if 2*nums[i]>=(nums[i+1]+nums[i-1]):
+                if nums[i]>=((nums[i+1]+nums[i-1])/2):
                     d_c+=1
 
         return d_c
