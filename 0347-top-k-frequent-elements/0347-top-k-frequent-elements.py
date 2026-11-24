@@ -1,23 +1,22 @@
 class Solution:
     def topKFrequent(self, nums: list[int], k: int) -> list[int]:
         d={}
-        p=[]
+        r=[]
         for i in nums:
             d[i]=d.get(i,0)+1
 
-
-        top=sorted(d,key=d.get,reverse=True)
-        return top[0:k]
-
-
+        p=sorted(d.items(), key=lambda x:[x[1]],reverse=True)
+        for j,v in p:
+            r.append(j)
 
 
-        
+        return r[:k]
 
-
-        
 
 
         
+
+        
+
 
         
