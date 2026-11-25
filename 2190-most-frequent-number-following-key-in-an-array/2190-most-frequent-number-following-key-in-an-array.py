@@ -7,8 +7,8 @@ class Solution:
 
                 d[target]=d.get(target,0)+1
 
-        p=max(d,key=d.get)
-        return p
+        p=max(d.items(),key=lambda x :[x[1]])
+        return p[0]
 
 
         
