@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1720-decode-xored-array) |
 | [1929-concatenation-of-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2404-most-frequent-even-element) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3046-split-the-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3046-split-the-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2404-most-frequent-even-element) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3046-split-the-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3046-split-the-array) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/0692-top-k-frequent-words) |
 | [1122-relative-sort-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/1122-relative-sort-array) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2404-most-frequent-even-element) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3046-split-the-array](https://github.com/sabyasachipalita/Leetcode-problem-/tree/master/3046-split-the-array) |
